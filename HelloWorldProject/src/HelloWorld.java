@@ -1,13 +1,13 @@
 /*
- * TODO: Name
- * TODO: Date
- * TODO: Class Period
- * TODO: Program Description
+ * Name: Nick Griffith
+ * Date: 9/9/25
+ * Class Period: 6
+ * Program Description: simple "Hello, World" program
  */
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		//TODO: Implement Program Requirements Here
+		System.out.println("Hello, Mrs. Adams.")
 	}
 
 }
